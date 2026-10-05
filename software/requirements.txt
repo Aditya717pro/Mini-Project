@@ -1,0 +1,7 @@
+SpeechRecognition
+sounddevice
+scipy
+ultralytics
+opencv-python
+numpy
+Pillow
